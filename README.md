@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
+![Photoshop](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+
