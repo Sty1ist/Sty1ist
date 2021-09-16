@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 ![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)  
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![Photoshop](https://img. -Photoshop-333?style=for-the-badge&logo=react)
