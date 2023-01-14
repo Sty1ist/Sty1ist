@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-### Мой стек технологий
+### My technology stack
 
 
  
