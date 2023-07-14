@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 [![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=ffffff)](https://wordpress.org)
 [![Directus](https://img.shields.io/badge/-Directus-242424?style=for-the-badge&logo=directus&logoColor=ffffff)](https://directus.io)
+[![Strapi](https://img.shields.io/badge/-Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=ffffff)](https://strapi.io)
+
 
 
 
