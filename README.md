@@ -38,3 +38,7 @@ Here are some ideas to get you started:
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=ffffff)](https://bitbucket.org)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=ffffff)](https://gitlab.com)
 
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=ffffff)](https://wordpress.org)
+[![Directus](https://img.shields.io/badge/-Directus-000000?style=for-the-badge&logo=directus&logoColor=ffffff)](https://directus.io)
+
+
